@@ -1,2 +1,2 @@
 # OPEN THE SITE 
-catversstudio.github.io/home/
+https://catversstudio.github.io/home/
